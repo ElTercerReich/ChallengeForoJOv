@@ -1,9 +1,7 @@
 # Challenge - Foro Hub
 ------
 
-<div style="position: relative; display: inline-block; text-align: center;">
-    <img src="img/java.png" alt="Logo del Proyecto" style="width: 100%;">
-</div>
+
 
 ## Descripcion del Proyecto
 Foro Hub es una aplicación API de back-end diseñada para gestionar un foro de discusión. 
